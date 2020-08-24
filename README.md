@@ -1,2 +1,2 @@
 # e-grades-backedn
-Projeto Integrador USJ - Sistema que permiti alunos do ensino médio gerir sua vida escolar, inserindo suas notas em determinadas matérias, anotando lembretes e podendo acompanhar sua média parcial e sua frequência
+Projeto Integrador USJ - Sistema que permite alunos do ensino médio gerir sua vida escolar, inserindo notas, lembretes e podendo acompanhar sua média parcial e frequência
